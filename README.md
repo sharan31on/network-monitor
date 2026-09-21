@@ -1,5 +1,7 @@
 # Real-Time Network Observability & Diagnostic Suite
 
+![Dashboard Preview](dashboard.png)
+
 A multi-threaded, asynchronous network monitoring daemon and diagnostic engine built with Python, FastAPI, SQLite, and Chart.js.
 
 ## Features
